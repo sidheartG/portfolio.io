@@ -27,14 +27,14 @@ function closeMenu() {
 }
 
 const certificates = [
-  "/assets/Certificates/Coding-Ninjas.png",
-  "/assets/Certificates/Great-Learning-Java.jpg",
-  "/assets/Certificates/HackerRank-Java-Certificate.png",
-  "/assets/Certificates/HTML-by-Udemy.png",
-  "/assets/Certificates/TCSiON-Career-Edge.png",
-  "/assets/Certificates/Programming-In-Java.jpg",
-  "/assets/Certificates/Python-Coursera.png",
-  "/assets/Certificates/TCSION Master-Data-Management.png",
+  "assets/Certificates/Coding-Ninjas.png",
+  "assets/Certificates/Great-Learning-Java.jpg",
+  "assets/Certificates/HackerRank-Java-Certificate.png",
+  "assets/Certificates/HTML-by-Udemy.png",
+  "assets/Certificates/TCSiON-Career-Edge.png",
+  "assets/Certificates/Programming-In-Java.jpg",
+  "assets/Certificates/Python-Coursera.png",
+  "assets/Certificates/TCSION Master-Data-Management.png",
 ]
 
 const leftImg = document.getElementById("imgleft")
